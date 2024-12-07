@@ -1,0 +1,2 @@
+path/to/large_file filter=lfs diff=lfs merge=lfs -text
+data/tartanaviation/raw/**/* filter=lfs diff=lfs merge=lfs -text
