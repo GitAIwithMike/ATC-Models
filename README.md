@@ -86,4 +86,5 @@ This project aims to enhance Air Traffic Control (ATC) communication safety and 
 - Test models in simulated ATC environments for real-world validation.
 
 ## References
-For detailed references, please see the [Final Project Proposal](https://github.com/GitAIwithMike/ATC-Models/blob/main/Final_Project_Proposal_TEAM3.docx).
+
+1. Patrikar, J., Dantas, J., Moon, B., Hamidi, M., Ghosh, S., Keetha, N., Higgins, I., Chandak, A., Yoneyama, T., & Scherer, S. (2024). **TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace Operations**. *arXiv preprint arXiv:2403.03372*. Retrieved from [https://arxiv.org/pdf/2403.03372.pdf](https://arxiv.org/pdf/2403.03372.pdf)
